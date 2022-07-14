@@ -24,7 +24,8 @@ body {
     color: #d9dcd6;
 }
 
-/* Changed to nav to make sure page was styled correctly */
+/* Changed all divs to nav here to make sure styles applied correctly
+to webpage  */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
+/* Changed background color above to match content section to improve readability */
 
 .benefit-lead {
     margin-bottom: 32px;
