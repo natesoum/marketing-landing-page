@@ -27,4 +27,19 @@ The following image shows the webpage's appearance and functionality: (../UPENN-
 
 ## Description
 
-In the starter code, we were given a html file that had little to no semantic elements. My task was to “clean up” the code as much as possible to make the code easier to maintain and debug down the line. Also, semantic elements help with accessibility and readability. I learned how having semantic elements help developers who aren’t building projects from scratch, helps them quickly understand what they are looking at. If you would have a bunch of div’s in a file that had thousands of lines of code, it would be very confusing/frustrating trying to debug the file. 
+What was your motivation?
+	My motivation for this assignment was to learn the importance of semantic HTML elements and how they improve the webpage for the both the user and developer. 
+
+What problem does it solve?
+	The problem that semantic HTML elements solve are that it helps search engines and other user devices define the importance and context of web pages. Also, pages/files made with semantic HTML elements are much easier to read & it has great accessibility which offers an overall better experience for users. 
+
+What did you learn?
+	I learned that semantic HTML elements creates an amazing user experience while also keeping the file for developers much easier to “dissect”. This helps developers understand the code much easier, which helps everyone at the end of the day to help maintain and debug code for future use. 
+
+## Comment / Summary
+
+ Overall, in summary, semantic HTML give a lot of upside for both the user and developer. After working through this assignment, I have a great understanding of the importance of semantic HTML elements and will include them in all of my HTML files. This was a great assignment to work on and I would love to hear any errors I may have that I did not notice. I would also love tips on this assignment and future assignments that would help me become a better developer! Thank you! 
+
+
+
+
